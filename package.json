@@ -1,0 +1,26 @@
+{
+  "name": "frexos",
+  "version": "1.0.0",
+  "description": "API wrapper for scotia-bank which uses axios + device-detect for setting up headers and Auth Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PadamSandhu/frexos.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "padam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PadamSandhu/frexos/issues"
+  },
+  "homepage": "https://github.com/PadamSandhu/frexos#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react-device-detect": "^1.6.1"
+  }
+}
